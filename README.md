@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Solidworks PDM-ERP Entegrations, Solidworks Macros, Design Automation**
 
-- 🌱 I’m currently learning **.Net Core MVC + Angular**
+- 🌱 I’m currently learning **.Net Core MVC**
 
 - 📫 How to reach me **buraktuzun8046@gmail.com**
 
